@@ -1,7 +1,11 @@
 # node_app
 Simple node app for Fetching GitHub Profile of Users
-Templating Engine :ejs
-Nodejs Express Js
+Technologies I used:
+Nodejs
+Express js
+Ejs
+MySql
+Ajax and jquery for Github API
 
 
 Steps To Start App:
